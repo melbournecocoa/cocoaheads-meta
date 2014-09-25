@@ -1,0 +1,186 @@
+# [FIT] Melbourne Cocoaheads #77
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+```
+#pragma mark - tmtw
+```
+
+---
+
+# [FIT] Welcome
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# [FIT] Introductions
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+^ Jesse Collis, long time Melbourne Cocoaheads memeber
+^ Attended my first WWDC and Melbourne Cocoaheads in 2008
+^ Current working at realestate.com.au in the iOS team
+^ Previously taught the RMIT iPhone software engineering cource at RMIT
+
+---
+
+# hi, I'm Jesse
+
+- First attended WWDC and Cocoaheads in 2008
+- Work @ realestate.com.au
+- Lectured iPhone Software Engineering @ RMIT in 2013
+- @sirjec
+- The iPhone 6+ is too large
+
+![filtered,](../assets/01 covers/covers-jesse-collis-ios.jpg)
+
+---
+
+# [FIT] So...
+
+---
+
+# Who's new to Cocoaheads?
+
+![fit](http://www.sntandrews.org/wp-content/uploads/imnewhere.jpg)
+
+---
+
+# Who's new <br />to Cocoa?
+
+![](http://briancovelli.com/wp-content/uploads/2014/05/i-have-no-idea-what-im-doing-science-dog.jpg)
+
+---
+
+# Cocoaheads Format
+
+- First meetup in July 2007
+- 2nd Thursday of the month
+- Sponsored by the Melbourne community
+- 1-2 presentations @ 30-45 minutes
+- n x lightning talks @ ~5 minutes
+- Drinks and pizza
+
+---
+
+# Cocoaheads Format 
+
+- Monthly Hack nights on the last Tuesday
+- melbournecocoaheads.com
+- @melbournecocoa
+- groups.google.com/d/forum/cocoaheadsau
+- github.com/melbournecocoa
+
+---
+
+# Contributing to Cocoaheads
+
+- Talks on iOS, Mac OS specifically
+- Talks on gadgets, technology in general
+- Fun, light, fast, relaxed talks welcome
+- Encourage your friends
+- Feedback welcome
+
+---
+
+# Thank you to our hosts
+
+![inline](../assets/04 sponsors/rmit.png)
+
+### Audrey Tam
+
+---
+
+# Thank you to our sponsors
+
+<br /><br />
+
+![inline](../assets/04 sponsors/realestate.jpg)
+
+---
+
+![](https://www.youtube.com/watch?v=L6DbgkilwgY)
+
+^ REA Hackday Video
+
+---
+
+# [FIT]careers.realestate.com.au
+
+![](http://careers.realestate.com.au/wp-content/uploads/2012/09/Office-Action-019-1000x360.jpg)
+
+--- 
+
+# [FIT] General Business
+
+![](../assets/02 memes/BusinessCat.png)
+
+---
+
+# [FIT] New Apps?
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# [FIT] Presentations
+
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+```
+#pragma mark - Presentations
+```
+
+---
+
+# [FIT] Who's Hiring?
+
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+# [FIT] PIZZA Time
+## Next - Lightning Talks
+
+![](http://richthediabetic.com/wp-content/uploads/2013/07/Pizza.jpg)
+
+---
+
+# [FIT] Lightening Talks
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+```
+#pragma mark - Lightning talks
+```
+
+---
+
+# Next Meetup
+### September 11, same location
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# Next Hack Night
+### October 28 @ 6:30
+<br />
+### Little Creatures Dining Hall 
+### 222 brunswick st, fitzroy, vic
+![right, 150%, filtered](../assets/03 locations/LittleCreatures.png)
+
+---
+
+# To the pub!
+### Oxford Scholar
+### Swanston & A'Beckett Street
+
+![right,filtered](../assets/03 locations/Oxford.jpg)
+![left,150%,filtered](../assets/03 locations/Oxford2.png)
+
+
