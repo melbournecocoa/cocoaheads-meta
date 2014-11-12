@@ -1,5 +1,5 @@
-# [FIT] Melbourne Cocoaheads #77
-# [FIT] October 9, 2014
+# [FIT] Melbourne Cocoaheads #78
+# [FIT] November 13, 2014
 ![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
 
 ---
@@ -7,6 +7,8 @@
 ```
 #pragma mark - tmtw
 ```
+
+- Peter Goldsmith
 
 ---
 
@@ -18,28 +20,13 @@
 # [FIT] Introductions
 ![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
 
-^ Jesse Collis, long time Melbourne Cocoaheads memeber
-^ Attended my first WWDC and Melbourne Cocoaheads in 2008
-^ Current working at realestate.com.au in the iOS team
-^ Previously taught the RMIT iPhone software engineering cource at RMIT
-
----
-
-# hi, I'm Jesse
-
-- Been around in iOS land since 2008
-- First attended Cocoaheads and WWDC in 2008
-- 9 to 5 @ realestate.com.au
-- Moonlight @ Beanhunter
-- Lectured iPhone Software Engineering @ RMIT in 2013
-- @sirjec
-- The iPhone 6+ is too large
-
-![filtered,](../assets/01 covers/covers-jesse-collis-ios.jpg)
+^ Here's a spot to say hi, introduce yourself. Add another slide if required.
 
 ---
 
 # [FIT] So...
+
+![filtered,](../assets/01 covers/covers-jesse-collis-ios.jpg)
 
 ---
 
@@ -49,7 +36,7 @@
 
 ---
 
-# Who's new <br />to Cocoa?
+# Who's new<br />to Cocoa?
 
 ![](http://briancovelli.com/wp-content/uploads/2014/05/i-have-no-idea-what-im-doing-science-dog.jpg)
 
@@ -73,6 +60,7 @@
 - @melbournecocoa
 - groups.google.com/d/forum/cocoaheadsau
 - github.com/melbournecocoa
+- melbournecocoa.slack.com - ping @melbournecocoa for an invite
 
 ---
 
@@ -99,25 +87,28 @@
 
 <br /><br />
 
-![inline](../assets/04 sponsors/realestate.jpg)
+![inline](../assets/04 sponsors/odecee.jpg)
 
----
+### Patrick Eckel
+### Ashton Williams (@ashtondev)
 
-![autoplay](https://www.youtube.com/watch?v=L6DbgkilwgY)
-
-^ REA Hackday Video
-
----
-
-# [FIT]careers.realestate.com.au
-
-![](http://careers.realestate.com.au/wp-content/uploads/2012/09/Office-Action-019-1000x360.jpg)
+^ Give the company an opportunuty to standup and say hi, talk about the company
 
 --- 
 
 # [FIT] General Business
 
 ![](../assets/02 memes/BusinessCat.png)
+
+^ This is an opportunity to ask the group if there's any general announcments, other events conferences parties or things going on. 
+
+---
+
+# 2015 Sponsorships
+
+- Cocoaheads runs from Feb - December
+- RMIT AV room (this room) confirmed for 2015 thank to RMIT
+- Get in touch with Jesse if you or your company are keen to sponsor or contribute in any way
 
 ---
 
@@ -131,7 +122,7 @@
 #pragma mark - Presentations
 ```
 
-- Kate Lanyon
+- George McKibbin - "The Science of Habit: How to Make addictive apps, become a more productive programmer and win at life"
 
 
 ---
@@ -153,8 +144,7 @@
 #pragma mark - Presentations
 ```
 
-- Tom Parry
-- Rob Amos
+- Chendo - SPDY in iOS 8
 
 ---
 
@@ -168,19 +158,20 @@
 #pragma mark - Lightning talks
 ```
 
-- Jesse Collis
+- Yichi Zhang on YZLibrary
+- Mica (@mica) on Testing with VoiceOver
 
 ---
 
 # Next Meetup
-### November 13, same location
+### December 11, same location
 
 ![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
 
 ---
 
 # Next Hack Night
-### October 28 @ 6:30
+### November 25 @ 6:30
 <br />
 ### Little Creatures Dining Hall 
 ### 222 brunswick st, fitzroy, vic
