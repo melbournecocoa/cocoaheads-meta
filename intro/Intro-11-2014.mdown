@@ -5,7 +5,7 @@
 ---
 
 ```
-#pragma mark - tmtw
+#pragma mark - TMTW
 ```
 
 - Peter Goldsmith
@@ -92,7 +92,7 @@
 ### Patrick Eckel
 ### Ashton Williams (@ashtondev)
 
-^ Give the company an opportunuty to standup and say hi, talk about the company
+^ Give the company an opportunity to standup and say hi, talk about the company
 
 --- 
 
@@ -100,7 +100,7 @@
 
 ![](../assets/02 memes/BusinessCat.png)
 
-^ This is an opportunity to ask the group if there's any general announcments, other events conferences parties or things going on. 
+^ This is an opportunity to ask the group if there's any general announcements, other events conferences parties or things going on. 
 
 ---
 
