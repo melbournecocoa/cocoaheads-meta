@@ -1,0 +1,251 @@
+# [FIT] Melbourne Cocoaheads #79
+# [FIT] December 11, 2014
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+```
+#pragma mark - tmtw
+```
+
+- Jesse Collis
+
+---
+
+# [FIT] Welcome
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# [FIT] Introductions
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+# hi, I'm Jesse
+
+- Been around in iOS land since 2008
+- First attended Cocoaheads and WWDC in 2008
+- 9 to 5 @ realestate.com.au
+- Moonlight @ Beanhunter
+- Lectured iPhone Software Engineering @ RMIT in 2013
+- @sirjec
+- The iPhone 6+ is too large
+
+---
+
+#[FIT] November 2014<br/>Special Thanks
+
+^ Myles Abbott, Hayley, Steve, Peter Goldsmith & Rob Amos
+
+![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/201411-IMG_5819.JPG)
+
+---
+
+# [FIT] So...
+
+![filtered,](../assets/01 covers/covers-jesse-collis-ios.jpg)
+
+---
+
+# Who's new to Cocoaheads?
+
+![fit](http://www.sntandrews.org/wp-content/uploads/imnewhere.jpg)
+
+---
+
+# Who's new<br />to Cocoa?
+
+![](http://briancovelli.com/wp-content/uploads/2014/05/i-have-no-idea-what-im-doing-science-dog.jpg)
+
+---
+
+# The Cocoaheads Format
+
+- First meetup in July 2007
+- 2nd Thursday of the month
+- Sponsored by the Melbourne community
+- 1-2 presentations @ 30-45 minutes
+- n x lightning talks @ ~5 minutes
+- Drinks and pizza
+
+---
+
+# The Cocoaheads Format 
+
+- Monthly Hack nights on the last Tuesday of the month
+- melbournecocoaheads.com
+- @melbournecocoa
+- groups.google.com/d/forum/cocoaheadsau
+- github.com/melbournecocoa
+- melbournecocoa.slack.com - ping @melbournecocoa for an invite
+
+---
+
+# Contributing to Cocoaheads
+
+- Talks on iOS, Mac OS specifically
+- Talks on gadgets, technology in general
+- Relaxed, casual talks welcome
+- Practice your presentation skills
+- Encourage your friends
+- Take photos and mention @melbournecocoa
+
+---
+
+# Thank you to our hosts
+
+![inline](../assets/04 sponsors/rmit.png)
+
+### Audrey Tam
+
+---
+
+# Thank you to our sponsors
+
+<br /><br />
+
+![inline](../assets/04 sponsors/DUIS.png)
+
+### Trevor Plant
+
+^ Give the company an opportunuty to standup and say hi, talk about the company
+
+--- 
+
+# [FIT] General Business
+
+![](../assets/02 memes/BusinessCat.png)
+
+^ This is an opportunity to ask the group if there's any general announcments, other events conferences parties or things going on. 
+
+---
+
+# 2015 Sponsorships
+
+- Cocoaheads runs from February - December
+- RMIT AV room (this room) confirmed for 2015 thank to RMIT
+- Get in touch with Jesse if you or your company are keen to sponsor
+
+
+---
+
+# [FIT] Presentations
+
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+```
+#pragma mark - Presentations
+```
+
+- Sun Long - Today View Extensions for Legacy Apps
+
+
+---
+
+# [FIT] Who's Hiring?
+
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+# [FIT] PIZZA Time
+## Next - More Presentations
+
+![](http://richthediabetic.com/wp-content/uploads/2013/07/Pizza.jpg)
+
+---
+
+```
+#pragma mark - Presentations
+```
+
+- Anthony Mittaz - Swift and Objective-C. Friends forever!
+- Matt Delves - iOS testing in Swift
+
+---
+
+# [FIT] Lightning Talks
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+```
+#pragma mark - Lightning talks
+```
+
+---
+
+# 2014 Wrap Up
+## Our Awesome Sponsors
+
+![inline](http://static.squarespace.com/static/50ecfac7e4b06c25711be371/t/5316a18ce4b0bbbf4e77373d/1393992077269/image.png?format=500w)![inline](http://static.squarespace.com/static/50ecfac7e4b06c25711be371/t/53169e14e4b078aab7f44122/1393991189037/Salsa+Logo_small.png?format=300w)![inline](../assets/04 sponsors/realestate.jpg)
+![inline](../assets/04 sponsors/JTribe.png)![inline](http://static.squarespace.com/static/50ecfac7e4b06c25711be371/t/5109e4b7e4b08fd84ce3f5f0/1359602873857/shine_id_master.jpg?format=500w)![inline](../assets/04 sponsors/DUIS.png)![inline](../assets/04 sponsors/odecee.jpg)
+
+^ realestate.com.au, Salsa Digital, Domestic Cat, Shine Technologies, Odecee, DiUS, JTribe
+
+---
+# 2014 Wrap Up
+## Our Awesome Host
+
+![inline](../assets/04 sponsors/rmit.png)
+
+### Audrey Tam
+
+---
+# 2014 Wrap Up
+## Your Awesome Presentations
+
+Anthony Mittaz, Sun Long, Matt Delves, Peter Goldsmith, George McKibbin, Yichi Zhang, Chendo, Mica, Kate Lanyon, Tom Parry, Rob Amos, Jack Barker, Rob Caporetto, Luke Tupper, Scott Brewer, Audrey Tam, Marc Ewdards, Alex Johnston, Jeff Tan-Ang, Gerald Kim, Maxime de Chalendar, Myles Abbot, Oliver Jones, Matthew Snowden, Richard Heard, Pete Hare, Jeff Bonnes
+
+^ There are 2 Apple employees in that list
+
+---
+
+# 2014 Wrap Up
+## Special Thanks
+
+Sean Woodhouse (Organiser Jan 2011 - July 2014)
+
+Audrey Tam
+
+---
+
+# 2014 Wrap Up
+## Cocoaheads in 2015
+
+- We need a new pub to go to for drinks
+- We're going to take video to the next level
+- Should we fly in someone famous to talk?
+- Do you want to do TMTW?
+- Open Source All the things
+- Website updates
+
+---
+
+#[FIT] Next Meetup >><br/>February 12, 2015<br/>same location
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# Next Hack Night
+### January 27, 2015 @ 6:30
+<br />
+### Little Creatures Dining Hall 
+### 222 brunswick st, fitzroy, vic
+![right, 150%, filtered](../assets/03 locations/LittleCreatures.png)
+
+---
+
+# To the pub!
+### Oxford Scholar
+### Swanston & A'Beckett Street
+
+![right,filtered](../assets/03 locations/Oxford.jpg)
+![left,150%,filtered](../assets/03 locations/Oxford2.png)
+
+
