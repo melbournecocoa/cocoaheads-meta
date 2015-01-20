@@ -1,0 +1,200 @@
+# [FIT] Melbourne Cocoaheads #80
+# [FIT] February 12, 2015
+
+![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/201411-IMG_5819.JPG)
+
+---
+
+```
+#pragma mark - tmtw
+```
+
+- Jesse Collis
+
+---
+
+# [FIT] Welcome
+# [FIT] To 2015
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# [FIT] Introductions
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+# hi, I'm Jesse
+
+- Been around in iOS land since 2008
+- First attended Cocoaheads and WWDC in 2008
+- 9 to 5 @ realestate.com.au
+- Moonlight @ Beanhunter
+- Lectured iPhone Software Engineering @ RMIT in 2013
+- @sirjec
+
+---
+
+# [FIT] So...
+
+![filtered,](../assets/01 covers/covers-jesse-collis-ios.jpg)
+
+---
+
+# Who's new to Cocoaheads?
+
+![fit](http://www.sntandrews.org/wp-content/uploads/imnewhere.jpg)
+
+---
+
+# Who's new<br />to Cocoa?
+
+![](http://briancovelli.com/wp-content/uploads/2014/05/i-have-no-idea-what-im-doing-science-dog.jpg)
+
+---
+
+# The Cocoaheads Format
+
+- First meetup in July 2007
+- 2nd Thursday of the month
+- Sponsored by the Melbourne community
+- 1-2 presentations @ 30-45 minutes
+- n x lightning talks @ ~5 minutes
+- Drinks and pizza
+
+---
+
+# The Cocoaheads Format 
+
+- Monthly Hack nights on the last Tuesday of the month
+- melbournecocoaheads.com
+- @melbournecocoa
+- groups.google.com/d/forum/cocoaheadsau
+- github.com/melbournecocoa
+- melbournecocoa.slack.com - ping @melbournecocoa for an invite
+
+---
+
+# Contributing to Cocoaheads
+
+- Talks on iOS, Mac OS specifically
+- Talks on gadgets, technology in general
+- Relaxed, casual talks welcome
+- Practice your presentation skills
+- Encourage your friends
+- Take photos and mention @melbournecocoa
+
+---
+
+# Thank you to our hosts
+
+![inline](../assets/04 sponsors/rmit.png)
+
+### Audrey Tam
+
+---
+
+# Thank you to our sponsors
+
+<br /><br />
+
+### TBC
+
+^ Give the company an opportunuty to standup and say hi, talk about the company
+
+--- 
+
+# [FIT] General Business
+
+![](../assets/02 memes/BusinessCat.png)
+
+^ This is an opportunity to ask the group if there's any general announcments, other events conferences parties or things going on. 
+
+---
+
+# [FIT] Presentations
+
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+```
+#pragma mark - Presentations
+```
+
+- TBC
+
+
+---
+
+# [FIT] Who's Hiring?
+
+![](../assets/01 covers/covers-jesse-collis-abbotsford.jpg)
+
+---
+
+# [FIT] PIZZA Time
+## Next - More Presentations
+
+![](http://richthediabetic.com/wp-content/uploads/2013/07/Pizza.jpg)
+
+---
+
+```
+#pragma mark - Presentations
+```
+
+- TBC
+
+---
+
+# [FIT] Lightning Talks
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+```
+#pragma mark - Lightning talks
+```
+
+- TBC
+
+---
+
+#[FIT]2014 Wrap Up
+
+---
+
+#[FIT] Next Meetup >><br/>March 12, 2015<br/>same location
+
+![](../assets/01 covers/covers-sean-woodhouse-melbourne.jpg)
+
+---
+
+# Next Hack Night
+### December 30 @ 6:30
+<br />
+### Little Creatures Dining Hall 
+### 222 brunswick st, fitzroy, vic
+![right, 150%, filtered](../assets/03 locations/LittleCreatures.png)
+
+---
+
+# Next Next Hack Night
+### January 27, 2015 @ 6:30
+<br />
+### Little Creatures Dining Hall 
+### 222 brunswick st, fitzroy, vic
+![right, 150%, filtered](../assets/03 locations/LittleCreatures.png)
+
+---
+
+# To the pub!
+### Oxford Scholar
+### Swanston & A'Beckett Street
+
+![right,filtered](../assets/03 locations/Oxford.jpg)
+![left,150%,filtered](../assets/03 locations/Oxford2.png)
+
+
