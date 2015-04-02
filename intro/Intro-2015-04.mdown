@@ -1,7 +1,7 @@
 # [FIT] Melbourne Cocoaheads #82
 # [FIT] April 9, 2015
 
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/Abbotsford 001.jpg)
+![](../assets/01 covers/covers-jesse-collis-abbotsford-2.jpg)
 
 ---
 
@@ -9,13 +9,13 @@
 #pragma mark - tmtw
 Peter Goldsmith
 ```
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/201411-IMG_5819.JPG)
+![](../assets/05 photos/201411-IMG_5819.JPG)
 
 ---
 
 # [FIT] Introductions
 
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/Abbotsford 001.jpg)
+![](../assets/01 covers/covers-jesse-collis-abbotsford-2.jpg)
 
 ---
 
@@ -27,7 +27,7 @@ Peter Goldsmith
 
 # [FIT] So...
 
-![filtered,](../assets/01 covers/covers-jesse-collis-ios.jpg)
+![filtered](../assets/01 covers/covers-jesse-collis-ios.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ Peter Goldsmith
 
 # Thank you to our sponsors
 
-![inline](../assets/04 sponsors/jTribe.png)
+![inline](../assets/04 sponsors/B2Cloud.png)
 
 ### Josh Guest
 
@@ -121,13 +121,13 @@ Peter Goldsmith
 
 # [FIT] Who's Hiring?
 
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/Abbotsford 001.jpg)
+![](../assets/01 covers/covers-jesse-collis-abbotsford-2.jpg)
 
 ---
 
 # [FIT] Presentations
 
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/Abbotsford 001.jpg)
+![](../assets/01 covers/covers-jesse-collis-abbotsford-2.jpg)
 
 ---
 
@@ -148,7 +148,7 @@ Prasanna Gopalakrishnan - "Glanceable computing with WatchKit"
 
 # [FIT] Lightning Talks
 
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/Abbotsford 001.jpg)
+![](../assets/01 covers/covers-jesse-collis-abbotsford-2.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ Adam Sharp - "Nothin’ but Swift — A minimalist programming journey"
 
 #[FIT] Next Meetup >><br/>May 14, 2015<br/>same location
 
-![](/Users/jesse/Documents/MelbourneCocoaheads/meta/assets/05 photos/Abbotsford 001.jpg)
+![](../assets/01 covers/covers-jesse-collis-abbotsford-2.jpg)
 
 ---
 
